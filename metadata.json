@@ -1,0 +1,5 @@
+{
+  "name": "V-Split",
+  "description": "A modern web application to split long videos into shorter, sequential clips using FFmpeg directly in the browser. Features a dark mode UI, custom split duration, and privacy-focused client-side processing.",
+  "requestFramePermissions": []
+}
